@@ -2,13 +2,14 @@
 
   My name is Kuyen. I am a Game Design Student. 
   Currently I am very interested in Web Development, especially Front -End Engineering.
-  I love UX Design and I'd like to explore this as well. 
+  I love UX Design and I'd like to explore.
   I am currently learning how to make smart contracts on the blockchain. 
   It would be fun to release a game as well.
   
   Oh, and programming art? Yeah that's on my bucketlist.
   
   Basicly, I have a lot of ideas and interests when it comes to IT.
+  I have done game related things with Unity, HTC VIVE VR, C#, Python, 3D Modelling, Design Thinking.
   
   ☕🍪 I'm done talking, let's get back to coding.
   
